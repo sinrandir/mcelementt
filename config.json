@@ -1,0 +1,9 @@
+{
+	"ip":"mcelementt.aternos.me",
+	"port": 45495,
+	"name": "Hieep_bot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Phuchiep1701 Phuchiep1701",
+	"login-cmd":"/login Phuchiep1701"
+}
